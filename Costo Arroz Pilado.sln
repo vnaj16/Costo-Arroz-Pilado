@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Costo Arroz Pilado", "Costo Arroz Pilado\Costo Arroz Pilado.csproj", "{03795A35-138C-4231-9E13-168CBD6A543B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_CosteoArroz", "Setup_CosteoArroz\Setup_CosteoArroz.vdproj", "{95B03712-C208-401C-ACA1-7D0EC2048232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03795A35-138C-4231-9E13-168CBD6A543B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03795A35-138C-4231-9E13-168CBD6A543B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03795A35-138C-4231-9E13-168CBD6A543B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03795A35-138C-4231-9E13-168CBD6A543B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B03712-C208-401C-ACA1-7D0EC2048232}.Debug|Any CPU.ActiveCfg = Debug
+		{95B03712-C208-401C-ACA1-7D0EC2048232}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D592D30-217F-49C2-AEAF-8D8A4895A9B5}
+	EndGlobalSection
+EndGlobal
